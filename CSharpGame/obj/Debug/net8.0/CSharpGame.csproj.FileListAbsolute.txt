@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\bin\Debug\net8.0\CSharpGame.exe
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\bin\Debug\net8.0\CSharpGame.deps.json
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\bin\Debug\net8.0\CSharpGame.runtimeconfig.json
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\bin\Debug\net8.0\CSharpGame.dll
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\bin\Debug\net8.0\CSharpGame.pdb
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.AssemblyInfo.cs
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.sourcelink.json
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.dll
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\refint\CSharpGame.dll
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.pdb
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\CSharpGame.genruntimeconfig.cache
+C:\Users\USer\source\repos\TestingPractice\CSharpGame\obj\Debug\net8.0\ref\CSharpGame.dll
