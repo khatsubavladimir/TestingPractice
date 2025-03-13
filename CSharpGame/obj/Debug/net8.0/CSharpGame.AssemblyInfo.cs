@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpTests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fe142a1252ec9f885c0d9baa763afc9611de60")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharpTests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharpTests")]
+[assembly: System.Reflection.AssemblyProductAttribute("CSharpGame")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CSharpGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
