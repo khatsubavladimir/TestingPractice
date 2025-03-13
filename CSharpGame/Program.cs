@@ -16,7 +16,7 @@ public class GuessingGame
         Attempts++;
 
         if (number < _secretNumber)
-            return "Загадане число більше.";
+            return "Загадане число бiльше.";
         if (number > _secretNumber)
             return "Загадане число менше.";
         return $"Ви вгадали число {_secretNumber} за {Attempts} спроб.";
@@ -30,15 +30,15 @@ class Program
         GuessingGame game = new GuessingGame();
         int guess = 0;
 
-        Console.WriteLine("Число загадано. Введіть число від 1 до 100:");
+        Console.WriteLine("Число загадано. Введiть число вiд 1 до 100:");
 
         while (true)
         {
-            Console.Write("Ваш варіант: ");
+            Console.Write("Ваш варiант: ");
             string input = Console.ReadLine();
             if (!int.TryParse(input, out guess))
             {
-                Console.WriteLine("Потрібно ввести ціле число");
+                Console.WriteLine("Потрiбно ввести цiле число");
                 continue;
             }
 
